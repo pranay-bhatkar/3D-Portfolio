@@ -102,7 +102,7 @@ const Hero = () => {
         </Canvas>
       </div>
 
-      <div className=" absolute bottom-7 right-0 left-0 z-10 c-space flex justify-center w-full">
+      <div className=" absolute bottom-7 right-0 left-0 z-10 c-space  w-full">
         <a href="#about" className="w-fit">
           <Button
             name="Let's work together"
